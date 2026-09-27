@@ -1,14 +1,19 @@
 from library_app.file_handler import read_file, write_file,csv_creater,csv_reader
+from library_app.api import lookup_book
 def add_book(kitaplar):
     baslik = input("Title: ")
-    yazar = input("Author: ")
-    while True:
-        yil = input("Year: ")
-        try:
-            yil=int(yil)
-            break
-        except ValueError:
-            print("Girdiğiniz değer bir sayi olmai yeniden giriş yapin")
+    yazar,yil=lookup_book(baslik)
+    if yazar is None:
+        yazar = input("Author: ")
+        while True:
+            yil = input("Year: ")
+            try:
+                yil = int(yil)
+                break
+            except ValueError:
+                print("Girdiğiniz değer bir sayi olmali, yeniden giriş yapin")
+    else:
+        print(f"Otomatik bulundu: {yazar}, {yil}")
     tur = input("Genre: ")
     kitaplar.append({"title": baslik,"author": yazar,"year": yil,"genre": tur})
     write_file("data/library.json",kitaplar)
