@@ -6,22 +6,268 @@
         "genre": "Dystopian"
     },
     {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": "1949",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": "1932",
         "genre": "Dystopian"
     },
     {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": "1960",
+        "genre": "Fiction"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": "1813",
+        "genre": "Romance"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": "1951",
+        "genre": "Fiction"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": "1937",
+        "genre": "Fantasy"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": "1954",
+        "genre": "Fantasy"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": "1953",
+        "genre": "Dystopian"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "year": "1945",
+        "genre": "Satire"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": "1851",
+        "genre": "Adventure"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "year": "1869",
+        "genre": "Historical Fiction"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": "1866",
+        "genre": "Philosophical Fiction"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "year": "1880",
+        "genre": "Philosophical Fiction"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "year": "1967",
+        "genre": "Magical Realism"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": "1988",
+        "genre": "Adventure"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "year": "1605",
+        "genre": "Satire"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": "1818",
+        "genre": "Gothic Fiction"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": "1897",
+        "genre": "Gothic Fiction"
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": "1847",
+        "genre": "Gothic Fiction"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "year": "1847",
+        "genre": "Gothic Fiction"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": "1890",
+        "genre": "Gothic Fiction"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "year": "1884",
+        "genre": "Adventure"
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "year": "1892",
+        "genre": "Mystery"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "year": "1939",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "year": "1937",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "year": "1969",
+        "genre": "Satire"
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "year": "1952",
+        "genre": "Fiction"
+    },
+    {
+        "title": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway",
+        "year": "1940",
+        "genre": "War Fiction"
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "year": "1859",
+        "genre": "Historical Fiction"
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "year": "1861",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "year": "1838",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "year": "1877",
+        "genre": "Fiction"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year": "-800",
+        "genre": "Epic Poetry"
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "year": "-750",
+        "genre": "Epic Poetry"
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "year": "1922",
+        "genre": "Modernist Fiction"
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "year": "1929",
+        "genre": "Modernist Fiction"
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "year": "1987",
+        "genre": "Historical Fiction"
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "year": "1952",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "year": "1955",
+        "genre": "Fiction"
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "year": "1961",
+        "genre": "Satire"
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "year": "1925",
+        "genre": "Absurdist Fiction"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "year": "1915",
+        "genre": "Absurdist Fiction"
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "year": "1922",
+        "genre": "Philosophical Fiction"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "year": "1942",
+        "genre": "Philosophical Fiction"
     },
     {
         "title": "Dune",
@@ -30,213 +276,27 @@
         "genre": "Science Fiction"
     },
     {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": "1949",
-        "genre": "Dystopian"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "Dune",
-        "author": "Frank Herbert",
-        "year": "1965",
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "year": "1951",
         "genre": "Science Fiction"
     },
     {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": "1949",
-        "genre": "Dystopian"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "Dune",
-        "author": "Frank Herbert",
-        "year": "1965",
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "year": "1984",
         "genre": "Science Fiction"
     },
     {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": "1949",
-        "genre": "Dystopian"
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "year": "2003",
+        "genre": "Mystery"
     },
     {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "Dune",
-        "author": "Frank Herbert",
-        "year": "1965",
-        "genre": "Science Fiction"
-    },
-    {
-        "title": "1984",
-        "author": "George Orwell",
-        "year": "1949",
-        "genre": "Dystopian"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": "asd",
-        "genre": "asd"
-    },
-    {
-        "title": "dasdaadsas",
-        "author": "dsasdadsasd",
-        "year": "sadasdadsasd",
-        "genre": "sdaasdasd"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": 1,
-        "genre": "asddsaadsdas"
-    },
-    {
-        "title": "asd",
-        "author": "asd",
-        "year": 1,
-        "genre": "ase"
-    },
-    {
-        "title": "asd",
-        "author": "wqeewqqwe",
-        "year": 21,
-        "genre": "ewq"
-    },
-    {
-        "title": "dune",
-        "author": "Frank Herbert",
-        "year": 1965,
-        "genre": "sadsasddas"
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "year": "1997",
+        "genre": "Fantasy"
     }
 ]

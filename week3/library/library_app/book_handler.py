@@ -23,10 +23,10 @@ def print_book(kitaplar):
     if not kitaplar:
         print("Kitap listesi boş")
     else:
-        print(f"{'Title':<20} | {'Author':<20} | {'Year':<6} | {'Genre':<15}")
+        print(f"{'Title':<40} | {'Author':<20} | {'Year':<6} | {'Genre':<15}")
         print("-" * 70)
         for kitap in kitaplar:
-            print(f"{kitap['title']:<20} | {kitap['author']:<20} | {kitap['year']:<6} | {kitap['genre']:<15}")  
+            print(f"{kitap['title']:40} | {kitap['author']:<20} | {kitap['year']:<6} | {kitap['genre']:<15}")  
 
 def search_book(kitaplar):
     aranan_kelime=input("aramak istediğiniz kitabin adini girin")
